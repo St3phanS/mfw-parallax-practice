@@ -1,0 +1,25 @@
+#parallaxOne {
+    background-image: url('../img/little-world.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 650px;
+
+    background-attachment: fixed;
+
+}
+#parallaxOne section {
+    background-color: rgba(0,0,0, 0.5);
+}
+img {
+    height: 650px;
+}
+
+section{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba (0,0,0,0.5);
+}
